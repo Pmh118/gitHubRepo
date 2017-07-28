@@ -1,0 +1,21 @@
+<?<?xml version="1.0" encoding="UTF-8"?>
+	<widget xmlns 	= "http://www.w3.org/ns/widgets"
+		xmlns:gap 	= "http://phonegap.com/ns/1.0"
+		id		  	= "com.phonegap.example"
+		versionCode = "1"
+		version 	= "1.0.0" >
+
+
+		<!-- versionCode is android only -->
+		<!-- version is major.minor.patch format -->
+		<name>PhoneGap Example App</name>
+
+		<description> 
+			an example for phonegap build app which wont show up in the playstore
+		</description>
+
+		<author href="http://mywebsite.com" email="myEmail@here.com">
+			Yaggy
+		</author>
+
+	</widget>
